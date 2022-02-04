@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: BackUpWordPress
+Plugin Name: BackUpWordPress (with PHP 8.0 compatibility)
 Plugin URI: https://updraftplus.com/backupwordpress/?afref=744
 Description: Simple automated backups of your WordPress powered website. Once activated you'll find me under <strong>Tools &rarr; Backups</strong>. On multisite, you'll find me under the Network Settings menu.
-Version: 3.10
+Version: 3.99
 Author: XIBO Ltd
 Author URI: https://profiles.wordpress.org/xibodevelopment
 License: GPL-2+
