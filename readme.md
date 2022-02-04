@@ -1,3 +1,10 @@
+Note by @benjaminpick:
+
+This repo a fork to make the plugin compatible with PHP 8.0.<br>
+The code changes has been sent as pull request upstream, but nothing has happened yet:
+* https://github.com/xibodevelopment/backupwordpress/pull/1211
+
+
 ## BackUpWordPress
 Simple automated backups of your WordPress powered website.
 
